@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEdit", "TextEdit.csproj", "{E51A6908-DEAD-4283-9604-53A36F1DAB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51A6908-DEAD-4283-9604-53A36F1DAB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51A6908-DEAD-4283-9604-53A36F1DAB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51A6908-DEAD-4283-9604-53A36F1DAB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51A6908-DEAD-4283-9604-53A36F1DAB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6E430C-723C-40B2-A419-0DD92516BD9D}
+	EndGlobalSection
+EndGlobal
